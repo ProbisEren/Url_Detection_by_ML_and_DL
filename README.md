@@ -7,7 +7,7 @@ A comprehensive machine learning project for detecting phishing URLs using multi
 This project implements and compares 4 different machine learning approaches to detect phishing URLs with over 99% accuracy. The system analyzes URL patterns using character-level features to distinguish malicious from legitimate websites.
 
 **Course:** Learning from Data  
-**Institution:** [Your University]  
+**Institution:** FSMVÜ  
 **Date:** January 2026
 
 ## 🎯 Key Results
